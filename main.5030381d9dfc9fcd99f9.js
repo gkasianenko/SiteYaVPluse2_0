@@ -1,0 +1,2 @@
+(()=>{"use strict";document.querySelectorAll(".faq-question").forEach((e=>e.querySelector(".faq-question-header").addEventListener("click",(function(){e.querySelector(".faq-question-info").classList.toggle("active"),e.querySelector(".question-arrow").classList.toggle("active")}))))})();
+//# sourceMappingURL=main.5030381d9dfc9fcd99f9.js.map
